@@ -70,7 +70,7 @@ The system retrieves relevant information from the campus knowledge base and pro
 
 Setup
 1. Clone the repository
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/rakshaarr/club-guide-rag.git
 cd clubGuide
 2. Create a virtual environment
 python -m venv venv
