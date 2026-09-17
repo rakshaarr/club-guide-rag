@@ -1,0 +1,41 @@
+AWS Student Builders Group
+
+The AWS Student Builders Group carries out general AWS student-club activities.
+AWS has four teams: Events, Operations, Tech, and PR.
+First-year students cannot apply to AWS.
+AWS applications open every semester.
+AWS recruitment happens once per semester.
+AWS Tech team selection involves resume shortlisting followed by an interview.
+Other AWS teams select members through an application form and questions.
+The AWS Tech team helps organize workshops, tech talks, and other AWS initiatives.
+AWS members must maintain 75% attendance in technical sessions.
+The AWS Tech team meets every Saturday.
+The AWS lead is Kumar R.
+Students can belong to both AWS and GDG Campus.
+AWS inauguration is on 29th and 30th September 2026.
+Campus:
+- JSSATEB
+
+AWS Student Builders Group and GDG Campus are separate clubs, but students are allowed to belong to both.
+
+Both clubs regularly conduct workshops, hackathons, and events.
+
+The specific details in this file are campus-specific and should take priority over generic assumptions about AWS or GDG clubs
+
+GDG Campus
+
+GDG Campus organizes events.
+GDG has three teams: Tech, PR, and Events.
+Students from all years can apply to GDG Campus.
+GDG recruitment happens once per year.
+GDG recruitment starts at the beginning of odd semesters.
+GDG has interview rounds for all teams.
+GDG has no AI team.
+GDG members must maintain 70% attendance.
+Members who do not meet the attendance requirement will not be taken into the club the next year.
+GDG conducts three workshops each semester.
+GDG workshops can cover cybersecurity and other topics.
+Students can suggest workshop topics.
+Students can belong to both GDG Campus and AWS.
+The GDG lead is Mukunda M.
+There is no specific room for GDG.

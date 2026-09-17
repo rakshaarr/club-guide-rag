@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>clubGuide — Campus AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+        <div class="logo">
+            <div class="logo-icon">☞</div>
+            <span>club<span class="purple">Guide</span></span>
+        </div>
+
+        <nav>
+            <a href="#clubs">Explore Clubs</a>
+            <a href="#events">Events</a>
+            <a href="#resources">Resources</a>
+            <a href="#about">About</a>
+            <button class="signin">Sign in</button>
+        </nav>
+    </header>
+
+
+    <!-- HERO -->
+    <main>
+
+        <section class="hero">
+
+            <div class="badge">
+                <span>●</span>
+                AI-POWERED CAMPUS INTELLIGENCE
+            </div>
+
+            <h1>
+                Know your campus clubs.
+                <em>Ask anything.</em>
+            </h1>
+
+            <p class="subtitle">
+                Get answers about college clubs, eligibility, recruitment,
+                events, and requirements — all through one intelligent conversation.
+            </p>
+
+
+            <!-- SEARCH -->
+            <div class="search-container">
+
+                <div class="search-icon">⌕</div>
+
+                <input
+                    type="text"
+                    id="questionInput"
+                    placeholder="Ask about clubs, events, how to join, requirements..."
+                >
+
+                <button id="askButton">
+                    Ask clubGuide →
+                </button>
+
+            </div>
+
+            <p class="free-text">
+                Free to use · No account required to explore
+            </p>
+
+        </section>
+
+
+        <!-- SUGGESTED QUESTIONS -->
+        <section class="questions">
+
+            <div class="section-title">
+                <span>TRY ASKING</span>
+                <div></div>
+            </div>
+
+
+            <div class="cards">
+
+                <div class="question-card" data-question="Can first-year students apply to the AWS Student Builders Group?">
+
+                    <div class="card-top">
+                        <div class="card-icon">♟</div>
+                        <span class="category">AWS</span>
+                    </div>
+
+                    <h3>
+                        Can first-year students apply to AWS?
+                    </h3>
+
+                    <button class="ask-link">
+                        Ask this question →
+                    </button>
+
+                </div>
+
+
+                <div class="question-card" data-question="How does recruitment work for GDG Campus?">
+
+                    <div class="card-top">
+                        <div class="card-icon">☞</div>
+                        <span class="category">GDG</span>
+                    </div>
+
+                    <h3>
+                        How does recruitment work for GDG?
+                    </h3>
+
+                    <button class="ask-link">
+                        Ask this question →
+                    </button>
+
+                </div>
+
+
+                <div class="question-card" data-question="Can students belong to both AWS Student Builders Group and GDG Campus?">
+
+                    <div class="card-top">
+                        <div class="card-icon">◎</div>
+                        <span class="category">CLUBS</span>
+                    </div>
+
+                    <h3>
+                        Can I join both AWS and GDG?
+                    </h3>
+
+                    <button class="ask-link">
+                        Ask this question →
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ANSWER AREA -->
+        <section id="answerSection" class="answer-section hidden">
+
+            <div class="section-title">
+                <span>YOUR ANSWER</span>
+                <div></div>
+            </div>
+
+            <div class="answer-card">
+
+                <div class="answer-header">
+                    <div class="answer-avatar">☞</div>
+
+                    <div>
+                        <strong>clubGuide</strong>
+                        <span>Campus AI Assistant</span>
+                    </div>
+                </div>
+
+                <div id="answerText" class="answer-text">
+                    Loading...
+                </div>
+
+                <div class="source-card">
+                    <span>☻</span>
+                    <div>
+                        <strong>Grounded in campus information</strong>
+                        <p>Answer generated using the club knowledge base.</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <span>☞ clubGuide</span>
+        <span>Built for JSSATEB</span>
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
