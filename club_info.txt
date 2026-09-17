@@ -10,7 +10,7 @@ Other AWS teams select members through an application form and questions.
 The AWS Tech team helps organize workshops, tech talks, and other AWS initiatives.
 AWS members must maintain 75% attendance in technical sessions.
 The AWS Tech team meets every Saturday.
-The AWS lead is Kumar R.
+The AWS lead is KR.
 Students can belong to both AWS and GDG Campus.
 AWS inauguration is on 29th and 30th September 2026.
 Campus:
@@ -37,5 +37,5 @@ GDG conducts three workshops each semester.
 GDG workshops can cover cybersecurity and other topics.
 Students can suggest workshop topics.
 Students can belong to both GDG Campus and AWS.
-The GDG lead is Mukunda M.
+The GDG lead is M.
 There is no specific room for GDG.
