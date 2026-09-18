@@ -5,9 +5,6 @@ const answerSection = document.getElementById("answerSection");
 const answerText = document.getElementById("answerText");
 
 
-// =============================
-// ASK QUESTION
-// =============================
 
 async function askQuestion(question) {
 
@@ -63,9 +60,6 @@ async function askQuestion(question) {
 }
 
 
-// =============================
-// SEARCH BUTTON
-// =============================
 
 askButton.addEventListener("click", () => {
 
@@ -74,9 +68,6 @@ askButton.addEventListener("click", () => {
 });
 
 
-// =============================
-// ENTER KEY
-// =============================
 
 input.addEventListener("keydown", (event) => {
 
@@ -89,9 +80,6 @@ input.addEventListener("keydown", (event) => {
 });
 
 
-// =============================
-// QUESTION CARDS
-// =============================
 
 const cards = document.querySelectorAll(".question-card");
 
